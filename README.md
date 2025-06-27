@@ -14,7 +14,7 @@ I do web development and I really enjoy learning languages and frameworks like P
 ---
 
 ### 🌐 Socials:
-[Facebook](https://facebook.com/sujanmijar) | [LinkedIn](https://www.linkedin.com/in/sujan-mijar-37498636b)
+[Facebook](https://www.facebook.com/royal.sujan.902) | [LinkedIn](https://www.linkedin.com/in/sujan-mijar-37498636b)
 
 ---
 
