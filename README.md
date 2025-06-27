@@ -1,16 +1,43 @@
-## Hi there 👋
+# sujanmijar
+# Hi 👋 I’m  Sujan Mijar
 
-<!--
-**SujaanMijar/SujaanMijar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" style="max-width: 100%; display: inline-block;">
+🚀 backend Developer
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+I do web development and I really enjoy learning languages and frameworks like Python and Django.
+- 🤔 I’m looking for python Django(backend)internships
+
+---
+
+### 🌐 Socials:
+[Facebook](https://facebook.com/sujanmijar) | [LinkedIn](https://www.linkedin.com/in/sujan-mijar-37498636b)
+
+---
+
+### 💻 Tech Stack:
+- HTML5
+- JavaScript
+- Python
+- CSS3
+- Bootstrap
+- Django
+- Django REST Framework
+- MySQL
+- SQLite
+- PostgreSQL
+
+
+---
+
+### 📊 GitHub Stats:
+![Sujan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SujaanMijar&show_icons=true&theme=radical)
+
+---
+
+
+
+
