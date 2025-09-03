@@ -1,6 +1,6 @@
 # sujanmijar
 # Hi 👋 I’m  Sujan Mijar
-
+<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" alt="Sujan GIF" width="250" style="display: block; margin: 10px 0;">
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" style="max-width: 100%; display: inline-block;">
 🚀 backend Developer
 Welcome to my GitHub profile!
