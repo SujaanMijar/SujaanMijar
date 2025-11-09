@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 I do web development and I really enjoy learning languages and frameworks like Python and Django.
-- 🤔 I’m looking for python Django(backend)internships
+
 
 ---
 ### 🌐 Socials:
