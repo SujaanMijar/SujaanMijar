@@ -44,7 +44,10 @@ I do web development and I really enjoy learning languages and frameworks like P
 ---
 
 ### 📊 GitHub Stats
-![Sujan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujanmijar&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats-one-bice.vercel.app/api?username=SujanMijar&show_icons=true&theme=radical)
+
+
+
 
 
 
