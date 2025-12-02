@@ -51,9 +51,9 @@ I do web development and I really enjoy learning languages and frameworks like P
 
 
 
-🐍 Contribution Snake
+
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> </p>
 
 
-🎨 Aesthetic Typing Banner
+
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%7C+Django+Developer;API+Designer;Tech+Learner+%F0%9F%9A%80"> </p>
