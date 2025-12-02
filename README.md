@@ -51,7 +51,6 @@ I do web development and I really enjoy learning languages and frameworks like P
 
 
 
-
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> </p>
 
 
