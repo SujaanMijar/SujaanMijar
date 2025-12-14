@@ -44,9 +44,13 @@ I do web development and I really enjoy learning languages and frameworks like P
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=SujaanMijar&theme=tokyonight&hide_border=false" width="50%">
-</p>
+</p> -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SujaanMijar&show_icons=true&theme=tokyonight&cache_seconds=86400)
+
+
 
 
 
