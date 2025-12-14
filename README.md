@@ -34,8 +34,7 @@ I do web development and I really enjoy learning languages and frameworks like P
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
@@ -43,12 +42,20 @@ I do web development and I really enjoy learning languages and frameworks like P
 
 ---
 
-### 📊 GitHub Stats
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SujaanMijar&theme=tokyonight&hide_border=false" width="50%">
-</p> -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SujaanMijar&show_icons=true&theme=tokyonight&cache_seconds=86400)
+### 📊 GitHub Stats & 🧠 Most Used Languages
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SujaanMijar&show_icons=true&theme=tokyonight&cache_seconds=86400"
+    width="48%"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujaanMijar&layout=compact&theme=tokyonight"
+    width="48%"
+  />
+</p>
+
 
 
 
