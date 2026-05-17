@@ -1,71 +1,96 @@
 # sujanmijar
-# Hi 👋 I’m  Sujan Mijar
-<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" alt="Sujan GIF" width="250" style="display: block; margin: 10px 0;">
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" style="max-width: 100%; display: inline-block;">
-🚀Welcome to my GitHub profile!
+
+# Hi 👋 I'm Sujan Mijar  
+🚀 Data Engineer | Python Enthusiast | Backend & Data Systems Builder  
+
+<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="250" />
+
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif" width="300"/>
 
 ---
 
-### 🚀 About Me
-I do web development and I really enjoy learning languages and frameworks like Python and Django.
+## 🚀 About Me
+I am a passionate **Data Engineer** focused on building scalable data pipelines, ETL workflows, and cloud-based data solutions.  
+I enjoy turning raw data into meaningful insights using modern data stack technologies.
 
-
----
-### 🌐 Socials:
-<p align="left">
-  <a href="https://www.facebook.com/royal.sujan.902" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/sujan-mijar-37498636b" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
-  </a>
-</p>
-
+- 🔭 Working on Data Engineering & Backend Systems  
+- 🌱 Learning Advanced Big Data & Cloud Architecture  
+- ⚙️ Building ETL pipelines & data-driven applications  
+- 📊 Passionate about data modeling & analytics  
+- 🚀 Exploring distributed systems and real-time data streaming  
 
 ---
 
-### 💻 Tech Stack:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-</p>
+## 🧠 Tech Stack
+
+### 👨‍💻 Programming & Scripting
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+
+### 🏗 Data Engineering
+- ETL Pipelines  
+- Data Ingestion & Transformation  
+- Data Modeling (Star & Snowflake Schema)  
+- Data Cleaning & Processing  
+
+### ⚡ Big Data & Streaming
+![PySpark](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg)
+- Apache Spark / PySpark  
+- Apache Kafka  
+- Hadoop Ecosystem  
+
+### ☁️ Cloud & Warehousing
+![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg)
+- AWS (S3, EC2, Lambda basics)  
+- Snowflake  
+- Data Warehousing Concepts  
+
+### 🔧 Orchestration & Tools
+- Apache Airflow  
+- Git & GitHub  
+- APIs & REST Integration  
 
 ---
 
-
-### 📊 GitHub Stats & 🧠 Most Used Languages
+## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=SujaanMijar&show_icons=true&theme=tokyonight&cache_seconds=86400"
-    width="48%"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujaanMijar&layout=compact&theme=tokyonight"
-    width="48%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SujaanMijar&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujaanMijar&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
+---
 
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
+---
 
+## 💡 Focus Areas
+- Building scalable ETL pipelines  
+- Real-time data streaming systems  
+- Cloud-based data architecture  
+- Data warehouse design  
+- Automation of data workflows  
 
+---
 
+## 🌐 Connect With Me
 
+<p align="left">
+  <a href="https://www.facebook.com/royal.sujan.902" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/>
+  </a>
 
+  <a href="https://www.linkedin.com/in/sujan-mijar-37498636b" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+</p>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> </p>
+---
 
-
-
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%7C+Django+Developer;API+Designer;Tech+Learner+%F0%9F%9A%80"> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Engineer;ETL+Pipeline+Builder;Python+%7C+SQL+%7C+Spark;Cloud+%7C+Big+Data+Enthusiast;Turning+Data+into+Insights+🚀" />
+</p>
