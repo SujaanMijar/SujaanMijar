@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:0D1117&height=200&section=header&text=Sujan%20Mijar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Engineer%20%7C%20Backend%20Architect%20%7C%20AI%2FML%20Enthusiast&descAlignY=56&descSize=15&descColor=00F7FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:0D1117&height=200&section=header&text=Sujan%20Mijar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Engineer%20%7C%20Backend%20Architect%20%7C%20AI%2FML%20Engineer&descAlignY=56&descSize=15&descColor=00F7FF" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Data+Pipelines+%F0%9F%9A%80;Medallion+Architecture+Expert+%F0%9F%8F%85;PySpark+%7C+Airflow+%7C+Databricks;Turning+Raw+Data+into+Gold+%E2%9C%A8;Django+REST+%7C+PostgreSQL+%7C+AWS;Clean+Data%2C+Elegant+Code%2C+Systems+that+Work.)](https://git.io/typing-svg)
 
